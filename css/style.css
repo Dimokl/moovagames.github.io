@@ -82,3 +82,8 @@ h1 {
 .game a:hover {
     text-decoration: underline;
 }
+
+p {
+    text-align: right; /* Выравнивание текста по правому краю */
+    margin-bottom: 20px; /* Отступ между блоками */
+}
