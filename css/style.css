@@ -91,3 +91,11 @@ p {
 .text-right {
     text-align: right; /* Выравнивание текста по правому краю */
 }
+
+.text-black {
+    color: #000; /* Черный текст */
+}
+
+.text-gray {
+    color: #37474F; /* Серый текст */
+}
